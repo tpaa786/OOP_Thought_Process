@@ -16,5 +16,8 @@ class Main {
 
     //everything is a class in java (excluding boolean . ints and stuff) strings definitely
 
+    p1.details();
+    p1.attack();
+    p1.details();
   }
 }
